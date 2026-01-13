@@ -6,6 +6,7 @@ import Avatar from '../../../../assets/images/avatar.jpeg';
 import StyledButton from '../../../../components/StyledButton/StyledButton.tsx';
 import { AnimatedBackground } from '../../../../components/AnimatedBackground/AnimatedBackground.tsx';
 import CV from "../../../../assets/pdfs/mariajduartebarbosaa.pdf";
+import Typewriter from '../../../../components/Typewriter.tsx/Typewriter.tsx';
 
 const Hero = () => {
 
@@ -71,7 +72,7 @@ const Hero = () => {
 
                         <Grid item xs={12} md={7}>
                             <Typography color="primary.contrastText" variant="h1" textAlign="center" pb={2}>Maria Duarte</Typography>
-                            <Typography color="primary.contrastText" variant="h2" textAlign="center">I'm a Software Enginner</Typography>
+                            <Typewriter text="I'm a Software Engineer" delay={120} variant="h2" color="primary.contrastText" />
                             <Box mt={3}>
                                 <Grid container display="flex" justifyContent="center" spacing={3} pt={3}>
                                     <Grid item xs={12} md={4}>
