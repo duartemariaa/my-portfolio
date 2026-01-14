@@ -50,7 +50,7 @@ const Projects = () => {
   return (
     <StyledExperience>
       <Container maxWidth="lg">
-        <Box>
+        <Box id="projects" pt={5} pb={3}>
           <Typography variant="h2" textAlign="center" color="primary.contrastText">Projects</Typography>
         </Box>
 
