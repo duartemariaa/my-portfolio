@@ -47,15 +47,15 @@ const About: React.FC = () => {
         </Grid>
         <Box pb={1}>
           <Typography>
-            Hi! I’m Maria Duarte 👋
-            I’m a Computer Science student at the Federal University of Technology – Paraná (UTFPR).
-            I have hands-on experience developing personal projects on my own, where I work with technologies such as React, TypeScript, JavaScript, Angular, Git, SQL, and Figma, focusing on building well-structured, responsive, and user-friendly applications.
-            Currently, I’m deepening my knowledge in front-end development and expanding my skills in full-stack concepts, including Node.js and modern development workflows.
-            In addition to my technical background, I have experience as a Computer Science and IT instructor, teaching:
-            Microsoft Office (Word, Excel, PowerPoint),
-            Programming logic,
-            Introductory programming concepts.
-            This teaching experience helped me develop strong communication, problem-solving, and mentoring skills, as well as the ability to explain complex concepts in a clear and accessible way.
+            Olá! Eu sou Maria Duarte 👋
+            Sou estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR).
+            Tenho experiência prática no desenvolvimento de projetos pessoais realizados de forma independente, utilizando tecnologias como React, TypeScript, JavaScript, Angular, Git, SQL e Figma, com foco na construção de aplicações bem estruturadas, responsivas e com boa experiência do usuário.
+            Atualmente, estou aprofundando meus conhecimentos em desenvolvimento front-end e expandindo minhas habilidades em conceitos de full stack, incluindo Node.js e fluxos modernos de desenvolvimento.
+            Além da minha formação técnica, tenho experiência como instrutora de informática, ministrando aulas de:
+            Pacote Office (Word, Excel e PowerPoint),
+            Lógica de programação,
+            Programação introdutória. 
+            Essa experiência como instrutora contribuiu para o desenvolvimento de fortes habilidades de comunicação, resolução de problemas e mentoria, além da capacidade de explicar conceitos complexos de forma clara e acessível.
           </Typography>
         </Box>
         <hr/>
